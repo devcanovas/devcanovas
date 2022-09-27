@@ -19,3 +19,5 @@
     <img aling="center" alt="git" src="https://img.shields.io/badge/GIT-00000F?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 <hr>
+
+Um apreciador de conhecimento na área de desenvolvimento full-stack, sempre buscando aprender e compartilhar informações. Atualmente focado no estudo da arquitetura de software, design patterns e sempre buscando a melhor qualidade na construção do produto. Com o papel, no mercado de trabalho, de desenvolvedor back-end por 1 ano e 5 meses, atuando no desenvolvimento de APIs RESTfuls com Java e Spring Framework, também implementando funcionalidades e construindo novas telas para o mundo Web com Angular 11 e Typescript.
